@@ -1,4 +1,4 @@
-# 🚲 Bike Demand Prediction for BoomBikes (Post-COVID US Market)
+# Bike Demand Prediction for BoomBikes (Post-COVID US Market)
 
 ## ✅ Objective  
 The objective of this project was to help **BoomBikes**, a US-based bike-sharing company, understand the key factors driving demand for shared bikes in the **post-COVID American market**.  
@@ -16,7 +16,7 @@ The dataset contains **daily bike rental records** for the US market, including 
   - Time-based indicators (year, month, season, holidays)
   - Calendar and environmental attributes  
 
-A detailed data dictionary was used to ensure correct interpretation of categorical and numerical variables.
+A detailed data dictionary was used to ensure the correct interpretation of categorical and numerical variables.
 
 ---
 
@@ -82,16 +82,12 @@ bikes = 0.190855 + (0.477737 \temp) + (0.234132 \year) + (0.094476 \winter)+ (0.
 
 ## Recommendations  
 
-- **Geographic Expansion:**  
-  Prioritise regions with **warmer climates, longer summers, and lower rainfall**
+- **Geographic Expansion:** Prioritise regions with **warmer climates, longer summers, and lower rainfall**
 
-- **Infrastructure Planning:**  
-  Increase bike availability near **office hubs, corporate zones, and commercial areas**
+- **Infrastructure Planning:** Increase bike availability near **office hubs, corporate zones, and commercial areas**
 
-- **Demand Smoothing:**  
-  Introduce targeted promotions during **holidays** to mitigate demand drops
+- **Demand Smoothing:** Introduce targeted promotions during **holidays** to mitigate demand drops
 
-- **Brand Strategy:**  
-  Align branding and fleet planning with seasonal and weather-driven demand patterns
+- **Brand Strategy:** Align branding and fleet planning with seasonal and weather-driven demand patterns
 
 ---
