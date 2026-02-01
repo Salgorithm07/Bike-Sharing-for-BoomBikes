@@ -1,12 +1,12 @@
-🚲 Bike Demand Prediction for BoomBikes (Post-COVID US Market)
+# 🚲 Bike Demand Prediction for BoomBikes (Post-COVID US Market)
 
-✅ Objective  
+## ✅ Objective  
 The objective of this project was to help **BoomBikes**, a US-based bike-sharing company, understand the key factors driving demand for shared bikes in the **post-COVID American market**.  
 Using **multiple linear regression**, the goal was to identify statistically significant variables influencing daily bike demand so that the business can build a **data-driven expansion and revenue strategy** after the pandemic-induced downturn.
 
 ---
 
-📊 About the Data  
+## 📊 About the Data  
 The dataset contains **daily bike rental records** for the US market, including weather conditions, seasonal indicators, and temporal features.
 
 - **Granularity:** Daily-level data  
