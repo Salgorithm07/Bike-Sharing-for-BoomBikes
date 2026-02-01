@@ -61,20 +61,8 @@ These insights directly guided feature selection and model interpretation.
 
 ### Final Model Equation
 
-\[
-bikes = 0.190855 + (0.477737 \cdot temp) + (0.234132 \cdot year) + (0.094476 \cdot winter)
-\]
-
-\[
-+ (0.090998 \cdot sep) + (0.062076 \cdot summer)
-- (0.285031 \cdot drizzle) - (0.148098 \cdot windspeed)
-\]
-
-\[
-- (0.096316 \cdot holiday) - (0.078741 \cdot cloudy)
-- (0.055406 \cdot spring)
-\]
-
+bikes = 0.190855 + (0.477737 \cdot temp) + (0.234132 \year) + (0.094476 \winter)+ (0.090998 \sep) + (0.062076 \summer) - (0.285031 \drizzle) - (0.148098 \windspeed) - (0.096316 \holiday) - (0.078741 \cloudy)
+- (0.055406 \spring)
 ---
 
 ## 🔑 Key Drivers of Demand  
@@ -96,7 +84,7 @@ bikes = 0.190855 + (0.477737 \cdot temp) + (0.234132 \cdot year) + (0.094476 \cd
 ## 💡 Business Recommendations  
 
 - **Geographic Expansion:**  
-  Prioritize regions with **warmer climates, longer summers, and lower rainfall**
+  Prioritise regions with **warmer climates, longer summers, and lower rainfall**
 
 - **Infrastructure Planning:**  
   Increase bike availability near **office hubs, corporate zones, and commercial areas**
