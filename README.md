@@ -61,8 +61,7 @@ These insights directly guided feature selection and model interpretation.
 
 ### Final Model Equation
 
-bikes = 0.190855 + (0.477737 \cdot temp) + (0.234132 \year) + (0.094476 \winter)+ (0.090998 \sep) + (0.062076 \summer) - (0.285031 \drizzle) - (0.148098 \windspeed) - (0.096316 \holiday) - (0.078741 \cloudy)
-- (0.055406 \spring)
+bikes = 0.190855 + (0.477737 \temp) + (0.234132 \year) + (0.094476 \winter)+ (0.090998 \sep) + (0.062076 \summer) - (0.285031 \drizzle) - (0.148098 \windspeed) - (0.096316 \holiday) - (0.078741 \cloudy) - (0.055406 \spring)
 ---
 
 ## 🔑 Key Drivers of Demand  
