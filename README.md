@@ -20,7 +20,7 @@ A detailed data dictionary was used to ensure correct interpretation of categori
 
 ---
 
-## 🛠️ Data Cleaning & Preprocessing  
+## Data Cleaning & Preprocessing  
 
 - Converted categorical variables (season, month, weather) into **dummy variables**
 - Removed redundant and highly correlated features to prevent multicollinearity
@@ -29,7 +29,7 @@ A detailed data dictionary was used to ensure correct interpretation of categori
 
 ---
 
-## 🔍 Feature Selection  
+## Feature Selection  
 
 - Applied **Recursive Feature Elimination (RFE)** to identify the most impactful predictors
 - Iteratively removed statistically insignificant variables
@@ -51,7 +51,7 @@ These insights directly guided feature selection and model interpretation.
 
 ---
 
-## 🧠 Model Building  
+## Model Building  
 
 - Built a **Multiple Linear Regression model** using the `statsmodels` library for interpretability  
 - Evaluated multiple models and retained the one with:
@@ -81,7 +81,7 @@ bikes = 0.190855 + (0.477737 \cdot temp) + (0.234132 \year) + (0.094476 \winter)
 
 ---
 
-## 💡 Business Recommendations  
+## Recommendations  
 
 - **Geographic Expansion:**  
   Prioritise regions with **warmer climates, longer summers, and lower rainfall**
